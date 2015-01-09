@@ -1,0 +1,14 @@
+)O+_06 Big-body initial data  (WARNING: Do not delete this line!!)
+) Lines beginning with `)' are ignored.
+)---------------------------------------------------------------------
+ style (Cartesian, Asteroidal, Cometary) = Asteroidal
+ epoch (in days) = 0
+)---------------------------------------------------------------------
+ b    m=1e-6
+  1.0000 0.10 3. 
+  140. 36.  0
+  0. 0. 0.
+ c      m=1e-5
+  1.5874 0.15 10.
+  24. 215.  10.
+  0. 0. 0.
